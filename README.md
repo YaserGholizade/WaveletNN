@@ -1,1 +1,2 @@
 # WaveletNN
+The neural network
